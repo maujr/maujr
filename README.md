@@ -10,9 +10,10 @@ Programador front-end estudante de Análise e Desenvolvimento de Sistemas com fo
 [![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=maujr&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <br>
 
-### 🚀📚 Tecnologias que ando estudando:
+### 🚀📚 Tecnologias:
 <div style="display: inline_block">
    <img align="center" alt="JavaScript" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>

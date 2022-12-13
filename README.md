@@ -1,6 +1,6 @@
 ### Oi. Eu sou o Mauricio! 🙋‍♂️
 
-Programador front-end estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web.    
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento front-end.    
 
 [![website](https://img.shields.io/website?label=MauriciodeOliveira&style=for-the-badge&url=https://maujr.github.io/landingpage/)](https://maujr.github.io/landingpage/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricioel)
